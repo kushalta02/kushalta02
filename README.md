@@ -19,7 +19,7 @@
 </a>
 
 <br><br>
-
+github profile img
 <img src="https://komarev.com/ghpvc/?username=kushalta02&label=PROFILE%20VIEWS&color=7F5AF0&style=for-the-badge"/>
 
 </div> -->
@@ -33,7 +33,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=850&lines=AI%2FML+Developer;Full-Stack+Developer;Computer+Vision+Explorer;Software+Developer;Embedded+Systems+Enthusiast;Building+Intelligent+Systems+🚀" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=850&lines=AI%2FML+Developer;Full-Stack+Developer;Computer+Vision+Explorer;Software+Developer;Embedded+Systems+Enthusiast;Building+Intelligent+Systems+🚀" /> -->
 
 <br><br>
 
