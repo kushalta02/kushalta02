@@ -1,10 +1,11 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=KUSHALTA&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
 <br><br>
 
-<img src="./prf.png" width="210" alt="Kushalta profile illustration"/>
+<img src="./prf.png" width="210" alt="Kushalta"/>
 
 <br><br>
 
@@ -28,9 +29,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=kushalta02&label=PROFILE%20VIEWS&color=7F5AF0&style=for-the-badge"/>
 
-<br><br>
-
 </div>
+
+---
 
 ---
 
