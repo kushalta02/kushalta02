@@ -289,23 +289,6 @@ A web-based platform designed to digitally manage and track citizen grievances t
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kushalta02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushalta02&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
 
 ---
 
@@ -313,11 +296,13 @@ A web-based platform designed to digitally manage and track citizen grievances t
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kushalta02/kushalta02/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/kushalta02/kushalta02/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
+
+
 
 # 🎯 Developer Philosophy
 
