@@ -29,7 +29,7 @@
 
 <br>
 
-<img src="https://github.com/kushalta02.png" width="170" height="170" style="border-radius:50%;"/>
+<!-- <img src="https://github.com/kushalta02.png" width="170" height="170" style="border-radius:50%;"/> -->
 
 <br><br>
 
