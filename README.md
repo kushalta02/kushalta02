@@ -37,7 +37,7 @@ github profile img
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,flask,fastapi,tensorflow,opencv,arduino" />
+<!-- <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,flask,fastapi,tensorflow,opencv,arduino" /> -->
 
 <br><br>
 
