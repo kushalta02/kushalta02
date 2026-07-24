@@ -282,7 +282,6 @@ A web-based platform designed to digitally manage and track citizen grievances t
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalta02&layout=compact&theme=tokyonight&hide_border=true" height="180"/> -->
 
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=kushalta02&theme=tokyonight&hide_border=true&border_radius=10"/>
 
