@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=KUSHALTA&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+<img src="/home/work/Downloads/prf.png"/>
 
 <br>
 
