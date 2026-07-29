@@ -1,275 +1,252 @@
-
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=KUSHALTA&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=KUSHALTA&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
-<br><br>
+# 👋 Hi, I'm **Kushalta**
 
-<img src="./prf.png" width="210" alt="Kushalta"/>
+### 🚀 Software Engineer • AI/ML Developer • Full-Stack Developer • Computer Vision Enthusiast
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=850&lines=Software+Engineer;AI+%26+Machine+Learning;Full-Stack+Developer;Computer+Vision+Developer;Building+Intelligent+Systems+🚀" />
 
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=850&lines=AI%2FML+Developer;Full-Stack+Developer;Computer+Vision+Explorer;Software+Developer;Embedded+Systems+Enthusiast;Building+Intelligent+Systems+🚀"/> -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=850&lines=AI%2FML+Developer%3BFull-Stack+Developer%3BComputer+Vision+Explorer%3BSoftware+Developer%3BEmbedded+Systems+Enthusiast%3BBuilding+Intelligent+Systems+%F0%9F%9A%80" />
-<br><br>
+<br>
 
 <a href="https://kushalta.live">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-kushalta.live-7F5AF0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-kushalta.live-7F5AF0?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kushalta-16s02k29o/">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/kushalta02">
-<img src="https://img.shields.io/badge/GITHUB-kushalta02-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-kushalta02-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=kushalta02&label=PROFILE%20VIEWS&color=7F5AF0&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=kushalta02&label=PROFILE+VIEWS&color=7F5AF0&style=for-the-badge"/>
 
 </div>
 
 ---
 
----
+# 🚀 About Me
 
-## 👩‍💻 About Me
+- 🎓 Computer Science Engineering Student
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 💻 Full-Stack Developer building real-world applications
+- 👁️ Interested in Computer Vision & Embedded Systems
+- 🌱 Currently learning DSA, React and Advanced AI
+- 🎯 Goal: Become an AI Software Engineer
 
 ```python
-class Student:
+class Kushalta:
 
-    name = "Kushalta"
-    role = "Computer Science Engineering Student"
+    def __init__(self):
+        self.role = "Computer Science Engineering Student"
 
-    fields = [
-        "Software Development",
-        "Artificial Intelligence & Machine Learning",
-        "Computer Vision",
-        "Full-Stack Development",
-        "Embedded Systems",
-        "Cloud Technologies"
-    ]
+        self.languages = [
+            "Python",
+            "C++",
+            "C",
+            "JavaScript"
+        ]
 
-    languages = [
-        "Python",
-        "C++",
-        "C",
-        "JavaScript"
-    ]
+        self.frameworks = [
+            "React",
+            "Flask",
+            "FastAPI"
+        ]
 
-    frameworks = [
-        "React",
-        "Flask",
-        "FastAPI"
-    ]
+        self.ai_ml = [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "NLP",
+            "Face Recognition"
+        ]
 
-    ai_ml = [
-        "Machine Learning",
-        "Deep Learning",
-        "NLP",
-        "Computer Vision",
-        "Face Recognition"
-    ]
+        self.tools = [
+            "TensorFlow",
+            "OpenCV",
+            "DeepFace",
+            "Pandas",
+            "NumPy",
+            "Scikit-learn"
+        ]
 
-    tools = [
-        "TensorFlow",
-        "OpenCV",
-        "DeepFace",
-        "Pandas",
-        "NumPy",
-        "Scikit-learn"
-    ]
+        self.databases = [
+            "PostgreSQL",
+            "MySQL",
+            "Cloudant"
+        ]
 
-    databases = [
-        "PostgreSQL",
-        "MySQL",
-        "Cloudant"
-    ]
+        self.hardware = [
+            "Arduino",
+            "Servo Motors",
+            "Motor Drivers"
+        ]
 
-    hardware = [
-        "Arduino",
-        "Servo Motors",
-        "Motor Drivers",
-        "Embedded Systems"
-    ]
-
-    currently_learning = [
-        "AI & Machine Learning",
-        "Data Structures & Algorithms",
-        "React",
-        "Full-Stack Development"
-    ]
-
-    philosophy = "Learn by building. Build by solving real problems."
-
-    def keep_building(self):
-        return "Always learning. Always building. 🚀"
+    def motto(self):
+        return "Learn by building. Build solutions that matter. 🚀"
 ```
 
 ---
 
-# 🧠 Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p>
+## 💻 Languages
+
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js"/>
-</p>
 
----
+<br><br>
 
-### 🌐 Full-Stack Development
+## 🌐 Full-Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,flask,fastapi"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,flask,fastapi"/>
 
-`REST APIs` • `Frontend Development` • `Backend Development`
+<br><br>
 
----
+## 🤖 AI / ML
 
-### 🤖 AI • ML • Computer Vision
-
-<p>
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
-</p>
 
-`Pandas` • `NumPy` • `Scikit-learn` • `TensorFlow` • `OpenCV` • `DeepFace`
+**Pandas • NumPy • Scikit-learn • DeepFace**
 
----
+<br><br>
 
-### 🔌 Embedded Systems
+## ☁️ Database & Tools
 
-<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,vscode,postman"/>
+
+**IBM Cloud • Cloudant • Leaflet.js**
+
+<br><br>
+
+## 🔌 Embedded Systems
+
 <img src="https://skillicons.dev/icons?i=arduino"/>
-</p>
 
-`Arduino` • `Servo Motors` • `Motor Drivers` • `Hardware-Software Integration`
-
----
-
-### ☁️ Databases • Cloud • Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,postman,vscode,linux"/>
-</p>
-
-`IBM Cloud` • `Cloudant` • `Leaflet.js` • `Git` • `GitHub`
+</div>
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
 ## 🚌 BusGuardian
 
-### Smart School Bus Safety System
+> AI-powered Smart School Bus Safety System
 
-A multi-feature intelligent system combining **AI, computer vision, cloud technologies and real-time tracking**.
+### Features
 
-* 👤 Face recognition-based attendance
-* 😴 Fatigue detection simulation
-* 📍 Live bus tracking using Leaflet.js
-* 🐍 Flask backend
-* ☁️ Cloudant database
-* IBM Cloud integration
+- 👤 Face Recognition Attendance
+- 😴 Driver Fatigue Detection
+- 📍 Live GPS Tracking
+- ☁️ IBM Cloud Integration
+- 🗄️ Cloudant Database
+- 🐍 Flask Backend
+
+**Tech Stack**
+
+`Python` `Flask` `OpenCV` `DeepFace` `IBM Cloud`
 
 ---
 
 ## 🪞 LifeMirror
 
-### AI-Based Digital Twin
+> AI-Based Digital Twin
 
-An AI system designed to analyse behavioural patterns, emotions and personal insights.
+### Features
 
-* 🧠 NLP-based text analysis
-* 😊 Mood and emotion analysis
-* 📊 Behavioural pattern analysis
-* 🧬 Personality trait classification
-* 📈 Productivity cycle tracking
-* 🤖 AI-powered interaction
+- 😊 Emotion Detection
+- 🧠 NLP Analysis
+- 📊 Behaviour Tracking
+- 🤖 Personality Prediction
+- 📈 Productivity Analytics
 
-**Tech:** React • Flask/FastAPI • PostgreSQL • NLP • Machine Learning • DeepFace • TensorFlow
+**Tech Stack**
+
+`React` `Flask` `FastAPI` `TensorFlow` `PostgreSQL`
 
 ---
 
-## 🚦 IntelliRoute
+## 🚦 IntelliRoute AI
 
-### AI Traffic Congestion Prediction System
+> Traffic Congestion Prediction using Machine Learning
 
-A machine learning project focused on analysing traffic patterns and predicting congestion.
+### Features
 
-* 🚗 Traffic volume analysis
-* 🌦️ Weather-based analysis
-* 🧹 Data preprocessing
-* ⚙️ Feature engineering
-* 🤖 Machine learning models
-* 🚦 Congestion prediction
+- 🚗 Traffic Prediction
+- 🌦️ Weather Analysis
+- ⚙️ Feature Engineering
+- 📊 Data Processing
+- 🤖 Machine Learning Models
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
 
 ---
 
 ## 🚗 Smart Car Access System
 
-### Face Recognition + Embedded Systems
+> Face Recognition + Arduino Automation
 
-A project connecting computer vision with physical hardware.
-
-* 👤 Face recognition authentication
-* 🔌 Arduino UNO
-* ⚙️ Servo motor control
-* 🔧 Motor driver integration
-* 🤖 Hardware-software interaction
+- Face Authentication
+- Arduino UNO
+- Servo Motor Control
+- Embedded Systems
+- Hardware Software Integration
 
 ---
 
 ## 📅 Planify
 
-### React Productivity Application
+React Productivity Application
 
-* 📆 Interactive calendar
-* 📝 Event management
-* ⚛️ React Hooks
-* 🪟 Modal-based UI
-* 💾 LocalStorage persistence
-
-**Tech:** React • JavaScript • CSS
+- Interactive Calendar
+- Event Scheduling
+- Local Storage
+- React Hooks
 
 ---
 
 ## 🏛️ Municipality Grievance Management System
 
-A web-based platform designed to digitally manage and track citizen grievances through a structured system.
+Digital platform for managing citizen complaints with efficient tracking and monitoring.
 
 ---
 
-# 🏆 Certifications & Learning
+# 🏆 Certifications
 
-🎓 **Artificial Intelligence Fundamentals** — IBM
-
-☁️ **Cloud Application Developer** — IBM Cloud
-
-📊 **Data Analytics Job Simulation** — Deloitte
-
-💻 **Computer Science Engineering** — Rayat Bahra Institute of Engineering and Nano Technology
-
-🚀 Technical training, hackathon participation and continuous hands-on learning
+- 🎓 Artificial Intelligence Fundamentals — IBM
+- ☁️ Cloud Application Developer — IBM
+- 📊 Deloitte Data Analytics Job Simulation
+- 💻 Computer Science Engineering — Rayat Bahra Institute
 
 ---
 
-# 🌱 Currently Exploring
+# 🌱 Currently Learning
 
 ```text
-🤖 Artificial Intelligence & Machine Learning
-🧠 Data Structures & Algorithms
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+📚 Data Structures & Algorithms
+
+⚛️ React
+
 🌐 Full-Stack Development
-⚛️ React & Modern Frontend
+
 👁️ Computer Vision
+
 🔌 Embedded Systems
+
 ☁️ Cloud Technologies
-🚀 Real-World Application Development
 ```
 
 ---
@@ -278,17 +255,23 @@ A web-based platform designed to digitally manage and track citizen grievances t
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=kushalta02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kushalta02&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalta02&layout=compact&theme=tokyonight&hide_border=true" height="180"/> -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalta02&layout=compact&theme=tokyonight&hide_border=true"/>
 
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=kushalta02&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=kushalta02&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kushalta02&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushalta02&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
 
 ---
 
@@ -296,49 +279,53 @@ A web-based platform designed to digitally manage and track citizen grievances t
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kushalta02/kushalta02/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/kushalta02/kushalta02/gh-pages/github-contribution-grid-snake.svg"/>
 
 </div>
 
 ---
 
-
-
-# 🎯 Developer Philosophy
+# 💡 Developer Philosophy
 
 <div align="center">
 
-### 💡 Have an idea.
+### 💭 Think.
 
-### 🧠 Learn what it takes.
+### 📖 Learn.
 
-### 🛠️ Build the system.
+### 🛠️ Build.
 
-### 🐛 Break it.
+### 🐞 Break.
 
-### 🔍 Understand it.
+### 🔍 Improve.
 
-### 🚀 Make it better.
+### 🚀 Repeat.
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://kushalta.live">
-<img src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-7F5AF0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-7F5AF0?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kushalta-16s02k29o/">
-<img src="https://img.shields.io/badge/💼_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kushalta02">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br><br>
 
-### 🚀 Always Learning. Always Building.
+### ⭐ Building AI that solves real-world problems.
+
+### 🚀 Always Learning • Always Building
 
 </div>
 
@@ -349,3 +336,4 @@ A web-based platform designed to digitally manage and track citizen grievances t
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
+````
