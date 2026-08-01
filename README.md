@@ -28,7 +28,7 @@ AI • ML • Full-Stack • Computer Vision • Software Engineer
 
 <img src="https://komarev.com/ghpvc/?username=kushalta02&label=PROFILE%20VIEWS&color=7F5AF0&style=for-the-badge"/>
 
-</div>
+</div>       
 
 ---
 
@@ -273,9 +273,10 @@ A web-based platform designed to digitally manage and track citizen grievances t
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kushalta02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kushalta02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalta02&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalta02&layout=compact&theme=tokyonight&hide_border=true"/> -->
+
 
 <br><br>
 
